@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mpiquerasdev.github.io/handbook-rnkj6d/sitemap.xml
